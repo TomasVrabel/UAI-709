@@ -84,7 +84,7 @@ https://cs.wikipedia.org/wiki/Fibonacciho_posloupnost
 Príklad:  
 Vstup: 10  
 Výstup:  
-0 1 1 2 3 5 8 13 21 33  
+0 1 1 2 3 5 8 13 21 34  
 
 ## 6. Deň narodenia
 Peter je zvedavy, v ktorý deň v týdni sa narodil. Pomožte mu a napište program, který pro datum vypíše odpovídající den v týdnu.
