@@ -142,3 +142,16 @@ Napíšte program, ktorý dostane na vstupe súbor a zašifruje resp. dešifruje
 Príklad:  
 - text: dnes sviti slunce
 - zašifrovaný text: eoft txjuj tmvodf
+
+## 11. Permutace
+Napíšte program, ktorý dostane na vstupe číslo N a vypíše všetky permutace čísel 1..N.
+
+Príklad:  
+Vstup: N=3  
+Výstup:  
+1 2 3  
+1 3 2  
+2 1 3  
+2 3 1  
+3 1 2  
+3 2 1  
