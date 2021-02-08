@@ -155,3 +155,48 @@ Výstup:
 2 3 1  
 3 1 2  
 3 2 1  
+
+## 12. Bludiště
+Petr se stratil v bludišti, pomocte mu najít cestu ven.  
+Na vstupu dostane program bludiště ( x - stěna, . - chodba), Peter se nachází na pozici P a východ
+z bludiště je na pozici V. 
+
+Najdete cestu, jak se Petr (P) dostane k východu (V).
+* jakoukoliv cestu
+* nejkratší cestu
+
+
+Přiklad:
+Bludiště
+```
+xxxxxxxxxxxxxxxxx  
+x..............Vx  
+x.x.x.xxxxxx.xxxx  
+x.xxx.xx.......xx  
+x........xx.x.xxx  
+xx.xxxxx.Pxxxxxxx  
+xxxxxxxxxxxxxxxxx  
+```
+
+Libovolná cesta (označena *)
+```
+xxxxxxxxxxxxxxxxx  
+x**************Vx  
+x*x.x.xxxxxx.xxxx  
+x*xxx.xx.......xx  
+x********xx.x.xxx  
+xx.xxxxx*Pxxxxxxx  
+xxxxxxxxxxxxxxxxx  
+```
+
+Nejkratší cesta (označena *)
+```
+xxxxxxxxxxxxxxxxx  
+x...........***Vx  
+x.x.x.xxxxxx*xxxx  
+x.xxx.xx*****..xx  
+x.......*xx.x.xxx  
+xx.xxxxx*Pxxxxxxx  
+xxxxxxxxxxxxxxxxx  
+```
+
