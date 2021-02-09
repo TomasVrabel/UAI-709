@@ -200,3 +200,30 @@ xx.xxxxx*Pxxxxxxx
 xxxxxxxxxxxxxxxxx  
 ```
 
+## 13. Morseovka
+Napíšte program, ktorý načíta zo vstupného súboru text a do výstupného súboru zapíše preklad do morseovky.  
+https://cs.wikipedia.org/wiki/Morseova_abeceda
+
+Príklad:  
+input.txt  
+```
+ahoj  
+```
+
+output.txt  
+```
+.- .... --- .---
+```
+
+## 14. Úlohy s grafickým rozrhaním
+Nápady na úlohy s grafickým rozraním:
+- Kalkulačka
+- Stopky / časovač
+- Pexeso
+- Game Of Life (https://cs.wikipedia.org/wiki/Hra_%C5%BEivota)
+- Evidečný systém
+    - študentský informačný systém
+    - informační systém pro menzy
+    - autopůjčovna
+    - atď
+
