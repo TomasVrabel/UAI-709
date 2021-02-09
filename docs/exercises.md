@@ -227,3 +227,22 @@ Nápady na úlohy s grafickým rozhraním:
     - autopůjčovna
     - atď
 
+## 15. Databáze
+Rozšiřte zadání úlohy 12 nebo 14 o ukládání dat do databáze.
+Příklad:
+- bludiště jsou uloženy v DB
+- kalkulačka umožní výsledek uložit nebo načíst z DB
+- stopky umí uložit čas do DB společně s popisem, napr. Petrův rekord
+- Game Of Life umožňuje uložit začátečni konfiugrace do DB a pojmenovat je
+- evidenční systém ukládá data do databáze
+
+## 16. Public API
+Má váš oblíbený web public API? Napište pro API klienta a zobrazte získaná data. Public API bude nejspíš požadovat autentizaci, např ve formě API key.
+
+## 17. Nastenka s inzeraty
+Vyvořte server a klient pro aplikaci Nástěnka. Klient umožní:
+- pridat inzerat na nastenku
+- zobrazit vsechny inzeraty na nastence
+- smazat inzerat. Smazani probehne jenom na zaklade kodu, ktery byl obdrzen pri pridavani inzeratu.
+
+Poznámka: Inzeráty nemusí server ukládat do DB, stačí je držet v paměti.
