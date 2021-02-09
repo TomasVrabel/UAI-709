@@ -215,8 +215,8 @@ output.txt
 .- .... --- .---
 ```
 
-## 14. Úlohy s grafickým rozrhaním
-Nápady na úlohy s grafickým rozraním:
+## 14. Úlohy s grafickým rozhraním
+Nápady na úlohy s grafickým rozhraním:
 - Kalkulačka
 - Stopky / časovač
 - Pexeso
