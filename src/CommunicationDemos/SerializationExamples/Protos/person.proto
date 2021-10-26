@@ -1,0 +1,17 @@
+﻿syntax = "proto3";  
+
+option csharp_namespace = "ProtoExamples.Generated";  
+
+message Person  
+{  
+   string givenName = 1;  
+   string surname = 2;  
+   int32 age = 3;  
+   Address addr = 4;
+   Person father = 5;
+}
+
+message Address {
+	string street = 1;
+	string city = 2;
+}

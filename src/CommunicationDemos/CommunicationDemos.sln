@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationExamples", "SerializationExamples\SerializationExamples.csproj", "{365DEAC0-4185-4C4D-9ACA-F437CF3AC00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi.Server", "RestApi.Server\RestApi.Server.csproj", "{3C5AC879-CEC4-4C7E-9088-8BD60379FC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi.Client", "RestApi.Client\RestApi.Client.csproj", "{00EDF4FE-4D7A-4F6A-8CFB-2F4B02C035B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Service", "GRPC.Service\GRPC.Service.csproj", "{5EE88E11-30E6-4CE0-B88B-D2F22E9AC51F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPC.Client", "GRPC.Client\GRPC.Client.csproj", "{6AB18942-3ECD-4F55-AC25-EB50D41D9D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseExample", "DatabaseExample\DatabaseExample.csproj", "{14D5EAD0-E088-4BDD-A244-66CFEE8A3FF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{365DEAC0-4185-4C4D-9ACA-F437CF3AC00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365DEAC0-4185-4C4D-9ACA-F437CF3AC00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365DEAC0-4185-4C4D-9ACA-F437CF3AC00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365DEAC0-4185-4C4D-9ACA-F437CF3AC00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C5AC879-CEC4-4C7E-9088-8BD60379FC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5AC879-CEC4-4C7E-9088-8BD60379FC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5AC879-CEC4-4C7E-9088-8BD60379FC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5AC879-CEC4-4C7E-9088-8BD60379FC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00EDF4FE-4D7A-4F6A-8CFB-2F4B02C035B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EDF4FE-4D7A-4F6A-8CFB-2F4B02C035B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EDF4FE-4D7A-4F6A-8CFB-2F4B02C035B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EDF4FE-4D7A-4F6A-8CFB-2F4B02C035B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EE88E11-30E6-4CE0-B88B-D2F22E9AC51F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EE88E11-30E6-4CE0-B88B-D2F22E9AC51F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EE88E11-30E6-4CE0-B88B-D2F22E9AC51F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EE88E11-30E6-4CE0-B88B-D2F22E9AC51F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB18942-3ECD-4F55-AC25-EB50D41D9D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB18942-3ECD-4F55-AC25-EB50D41D9D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB18942-3ECD-4F55-AC25-EB50D41D9D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB18942-3ECD-4F55-AC25-EB50D41D9D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D5EAD0-E088-4BDD-A244-66CFEE8A3FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D5EAD0-E088-4BDD-A244-66CFEE8A3FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D5EAD0-E088-4BDD-A244-66CFEE8A3FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D5EAD0-E088-4BDD-A244-66CFEE8A3FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75750588-4F13-454B-8835-80A9D0A3EE4C}
+	EndGlobalSection
+EndGlobal
